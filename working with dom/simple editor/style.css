@@ -1,0 +1,50 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+button {
+    border: none;
+    outline : none;
+    padding: 20px;
+    border-radius: 10px;
+    margin:10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+    
+}
+
+#input {
+    border:black solid 5px;
+    font-weight: normal;
+    display:block;
+    margin-left: 60px;
+    width: 1239px;
+    height: 25px;
+}
+.buttons{
+    border:black solid 2px;
+    margin:0 100px 30px 100px;
+    padding: 20px;
+    
+
+}
+.field {
+         height: 200px; 
+          margin: 50px;
+          box-shadow: 1px 1px 10px black;  
+         border: black solid 5px;
+       } 
+
+ 
+ 

@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 2px;
+}
+
+.lists {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.item {
+    border : blueviolet solid 1px;
+    margin: 15px;
+    background-color: crimson;
+    padding: 2px;
+}
+
+.item:hover {
+    font-size: 20px;
+    background-color: lime;
+}
